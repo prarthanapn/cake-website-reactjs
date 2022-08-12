@@ -1,0 +1,51 @@
+[
+	{
+		"id": 1,
+		"title": "Cake Item 1",
+		"price": "115",
+		"catid":1,
+		"category":"cakes",
+		"img":"/img/sweets-1.jpeg"
+	},
+	{
+		"id": 2,
+		"title": "Cupcakes Item 2",
+		"price": "125",
+		"catid":2,
+		"category":"cupcakes",
+		"img":"/img/cupcake-1.jpeg"
+	},
+	{
+		"id": 3,
+		"title": "Sweet Item 1",
+		"price": "135",
+		"catid":3,
+		"category":"sweets",
+		"img":"/img/cake-1.jpeg"
+	},
+	{
+		"id": 4,
+		"title": "Doughnuts Item 1",
+		"price": "154",
+		"catid":4,
+		"category":"Doughnuts",
+		"img":"/img/doughnut-1.jpeg"
+		
+	},
+	{
+		"id": 5,
+		"title": "Cakes Item 1",
+		"price": "156",
+		"catid":1,
+		"category":"cakes",
+		"img":"/img/sweets-2.jpeg"
+	},
+	{
+		"id": 6,
+		"title": "Cupcakes Item 1",
+		"price": "1590",
+		"catid":2,
+		"category":"cupcakes",
+		"img":"/img/sweets-2.jpeg"
+	}
+]
