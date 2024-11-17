@@ -21,7 +21,7 @@ export const Order = () => {
 							<p className="my-3">custom size</p>
 							<p className="my-3">custom design</p>
 							<button type="button" className="btn btn-pink text-capitalize mb-3">order now</button>
-							<p className="text-lowercase mb-4">starting at $5</p>
+							<p className="text-lowercase mb-4">starting at ₹350</p>
 							<img src="img/trans-cake.png" className="img-fluid" alt="" />
 						</div>
 					</div>
@@ -35,7 +35,7 @@ export const Order = () => {
 							<p className="my-3">custom size</p>
 							<p className="my-3">custom design</p>
 							<button type="button" className="btn btn-pink text-capitalize mb-3">order now</button>
-							<p className="text-lowercase mb-4">starting at $5</p>
+							<p className="text-lowercase mb-4">starting at ₹500</p>
 							<img src="img/trans-custom.png" className="img-fluid" alt="" />
 						</div>
 					</div>
@@ -49,7 +49,7 @@ export const Order = () => {
 							<p className="my-3">custom size</p>
 							<p className="my-3">custom design</p>
 							<button type="button" className="btn btn-pink text-capitalize mb-3">order now</button>
-							<p className="text-lowercase mb-4">starting at $5</p>
+							<p className="text-lowercase mb-4">starting at ₹650</p>
 							<img src="img/trans-wedding.png" className="img-fluid" alt="" />
 						</div>
 					</div>

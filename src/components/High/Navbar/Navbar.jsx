@@ -42,7 +42,7 @@ export const Navbar = () => {
 								<span className="info-icon mx-lg-3">
 									<i className="fas fa-phone"></i>
 								</span>
-								<p className="mb-0">+ 123 456 789 </p>
+								<p className="mb-0">+6282523415 </p>
 							</div>
 							{/* <!-- single info --> */}
 							<div onClick={() => setmodal(true)} id="cart-info" className="  nav-info align-items-center cart-info d-flex justify-content-between mx-lg-5">
@@ -51,7 +51,7 @@ export const Navbar = () => {
 								</span>
 								<p className="mb-0 text-capitalize ">
 									<span id="item-count">{cart.Items} </span>
-									items - $
+									items - ₹
 									<span className="item-total">
 										{cart.Price}
 									</span>

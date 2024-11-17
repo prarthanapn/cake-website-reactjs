@@ -6,7 +6,7 @@ export const Banner = () => {
 			<div className="row max-height justify-content-center align-items-center">
 				<div className="col-10 mx-auto banner text-center">
 					<h1 className="text-capitalize">
-						welcome to <strong className="banner-title">grandmas</strong>
+						welcome to <strong className="banner-title">Sugarto</strong>
 					</h1>
 					<Button size={true} text="explore"/>
 				</div>

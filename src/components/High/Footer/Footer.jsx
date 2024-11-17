@@ -7,7 +7,7 @@ export const Footer = () => {
 				<div className="row">
 					<div className="col-md-6 footer-title py-5">
 						<h1 className="text-capitalize text-center">
-							<strong className="banner-title">grandmas</strong>
+							<strong className="banner-title">Sugarto</strong>
 						</h1>
 						<div className="footer-icons mt-3 d-flex justify-content-around flex-wrap">
 							<a href="#" className="footer-icon">
@@ -32,7 +32,7 @@ export const Footer = () => {
 								<i className="fas fa-map"></i>
 							</span>
 							<span>
-                                123 main street, san diego CA 90101
+                                123 main street, Kodialbail,Manglore
 							</span>
 						</p>
 						<p className="d-flex flew-wrap">
@@ -48,7 +48,7 @@ export const Footer = () => {
 								<i className="fas fa-envelope"></i>
 							</span>
 							<span>
-                                email@email.com
+                                Sugarto_cake_shop@gmail.com
 							</span>
 						</p>
 					</div>

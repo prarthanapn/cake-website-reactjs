@@ -1,13 +1,13 @@
 @import url("https://fonts.googleapis.com/css?family=Kaushan+Script");
 
 body {
-  font-family: "Kaushan Script", cursive;
-  background: #fff;
+  font-family: sans-serif, cursive;
+  background: beige;
   color: #000;
 }
 /* global styles */
 .btn-pink {
-  color: #ef7998 !important;
+  color: #ef7998;
   border-color: #ef7998 !important;
 }
 .btn-black {
